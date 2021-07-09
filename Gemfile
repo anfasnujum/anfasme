@@ -10,4 +10,7 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'github-pages'
+    gem "nokogiri", ">= 1.6.7.rc"
 end
+
